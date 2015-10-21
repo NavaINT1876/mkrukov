@@ -1,4 +1,4 @@
-﻿<?php 
+<?php 
 include ("blocks/bd.php");
 if (isset($_POST['submit_s'])) {$submit_s=$_POST['submit_s'];}
 if (isset($_POST['search'])) {$search=$_POST['search'];}

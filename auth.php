@@ -1,4 +1,4 @@
-﻿<?php 
+<?php 
 include ("blocks/bd.php");
 ?>
 <!DOCTYPE html>

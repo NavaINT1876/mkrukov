@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 include ("blocks/bd.php");
 if (isset($_POST['score'])){$score = $_POST['score'];}
 if (isset($_POST['id'])){$id = $_POST['id'];}

@@ -1,4 +1,4 @@
-﻿<?php 
+<?php 
 session_start();
 include ("blocks/bd.php");
 if (isset($_GET['id'])) {$id=$_GET['id'];}

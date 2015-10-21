@@ -1,4 +1,4 @@
-﻿<?php 
+<?php 
 session_start();
 include ("blocks/bd.php");
 $result=mysql_query("SELECT title, meta_d, meta_k, text FROM settings WHERE page='contact'",$db);
